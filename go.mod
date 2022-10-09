@@ -1,4 +1,4 @@
-module gitgithub.com/yingzixiaoyuan/rat
+module github.com/yingzixiaoyuan/rat
 
 go 1.17
 
